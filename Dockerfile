@@ -1,3 +1,4 @@
+
 FROM openjdk:8
 
 RUN mkdir /app
